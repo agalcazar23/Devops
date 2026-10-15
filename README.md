@@ -2,7 +2,7 @@
 
 # Introducción a Devops
 
-![Devops](img/devops.gif)
+![Devops](img/devops.GIF)
 
 ## Índice
 
